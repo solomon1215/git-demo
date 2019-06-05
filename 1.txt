@@ -1,4 +1,5 @@
 num2 = 20 # manage
 num1 = 20  # 定义一个名为num1的变量
-num3 = 30  # zs
-num4 = 40  # zhangsan
+num3 = 30 
+num4 = 40 
+num5 = 50
