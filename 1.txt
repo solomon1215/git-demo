@@ -1,1 +1,2 @@
 num2 = 20 # manage
+num1 = 20  # 定义一个名为num1的变量
