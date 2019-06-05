@@ -2,4 +2,5 @@ num2 = 20 # manage
 num1 = 20  # 定义一个名为num1的变量
 num3 = 30 
 num4 = 40 
-num5 = 50
+num5 = 70 # 修改的变量
+num6 = 80 # 添加的变量
